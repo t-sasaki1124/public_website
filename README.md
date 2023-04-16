@@ -2,5 +2,5 @@
 
 ようこそ。websiteへ
 
-[トップページ](index.html)はこちら。
+[トップページ](main.html)はこちら。
 
