@@ -1,4 +1,4 @@
 # public_website
-公開用
+ようこそ。websiteへ
 
-追加テスト
+[トップページ](index.html)はこちら。
