@@ -4,3 +4,12 @@
 
 [トップページ](main.html)はこちら。
 
+# Skills
+
+# Result
+
+
+# Hobby - 趣味
+
+
+# Dream - やりたいこと
