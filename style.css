@@ -77,3 +77,31 @@ footer {
 	margin: 1rem 0;
   }
   
+
+  .parallax_content{
+	display: flex;
+	height: 100%;
+	padding: 100%;
+	justify-content: center;
+	align-items: center;
+  
+	background-attachment: fixed;
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+  }
+  .img_bg_01{
+	background-image: url('background-image.jpg');
+  }
+  .img_bg_02{
+	background-image: url();
+  }
+  .img_bg_03{
+	background-image: url();
+  }
+  .img_bg_04{
+	background-image: url();
+  }
+  .img_bg_05{
+	background-image: url();
+  }
