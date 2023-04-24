@@ -1,15 +1,15 @@
-# public_website REDOME.mdに書いてる
+# public_website REDOME.md
 
 ようこそ。websiteへ
 
-[トップページ](main.html)はこちら。
+[トップページ](main.html)
 
-# Skills
 
-# Result
+# Result - 実績
 
+# Skills - スキル
 
 # Hobby - 趣味
 
 
-# Dream - やりたいこと
+# Dream - 今後やりたいこと
